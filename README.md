@@ -17,12 +17,13 @@ $ git clone https://github.com/Eug1ena/random-aoj
 main.py を実行します。
 
 ```
-$ cd random-aoj
 $ python3 main.py
 https://onlinejudge.u-aizu.ac.jp/problems/2918
 ```
 
--x オプションを付けると、既に解いた問題を除外することができます。<br>このオプションを付けて初めて実行するときには、AOJ の id と password が必要になります。
+-x オプションを付けると、既に解いた問題を除外することができます。
+
+このオプションを付けて初めて実行するときには、AOJ の id と password が必要になります。
 
 ```
 $ python3 main.py -x
